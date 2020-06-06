@@ -46,3 +46,26 @@
 .header-adress:focus {
   color: #2196f3;
 }
+
+/* banner */
+
+.banner {
+  color: #ffffff;
+}
+
+/* cection-work */
+
+.section-work-text {
+  color: #757575;
+}
+
+/* cection-occupation */
+
+.section-occupation-title {
+  color: #ffffff;
+}
+
+/* cection-team */
+
+.section-team-text {
+}
