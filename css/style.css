@@ -1,21 +1,21 @@
-.logo:hover,
-.logo:focus {
+.header-logo:hover,
+.header-logo:focus {
   color: #2196f3;
 }
-.logo-web {
-  color: #2196f3;
-}
-
-.site-nav:hover a,
-.site-nav:focus a {
+.header-logo-web {
   color: #2196f3;
 }
 
-.site-adress {
+.header-site-nav:hover,
+.header-site-nav:focus {
+  color: #2196f3;
+}
+
+.header-adress {
   color: #757575;
 }
 
-.site-adress:hover,
-.site-adress:focus {
+.header-adress:hover,
+.header-adress:focus {
   color: #2196f3;
 }
