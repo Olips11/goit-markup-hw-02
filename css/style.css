@@ -92,7 +92,7 @@
 }
 
 .section-team-text {
-  color: #757575;
+  color: #757575#757575;
 }
 
 /* footer */
@@ -110,5 +110,28 @@
 }
 
 .footer-title {
+  color: #ffffff;
+}
+
+/* portfolio */
+
+.portfolio {
+  color: #212121;
+}
+
+.portfolio:hover,
+.portfolio:focus {
+  color: #ffffff;
+}
+
+.projects-title {
+  color: #212121;
+}
+
+.projects-resource {
+  color: #757575;
+}
+
+.projects-text {
   color: #ffffff;
 }
