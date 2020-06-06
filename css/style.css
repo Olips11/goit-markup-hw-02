@@ -68,4 +68,15 @@
 /* cection-team */
 
 .section-team-text {
+  color: #757575;
+}
+
+/* ooter */
+
+.logo-title {
+  color: #ffffff;
+}
+
+.footer-mail-tel {
+  color: rgba(255, 255, 255, 0.6);
 }
