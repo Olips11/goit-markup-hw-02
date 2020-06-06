@@ -1,3 +1,7 @@
+/* основной цвет текста #212121 */
+/* вторичный цвет #757575 */
+/* белый #FFFFFF */
+
 .header-logo:hover,
 .header-logo:focus {
   color: #2196f3;
