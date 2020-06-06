@@ -1,14 +1,19 @@
 /* основной цвет текста #212121 */
 /* основной вторичный цвет текста #757575 */
 /* белый #FFFFFF */
-/* акцент #2196F3*/
 /* шапка #FFFFFF */
 /* тело #E5E5E5*/
 /* команда вторичный #F5F4FA */
 /* подвал #2F303A */
 
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --title-text-color-white: #ffffff;
+}
+
 .page {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   color: #212121;
 }
 
@@ -16,6 +21,13 @@
   list-style: none;
 }
 
+.section-banner {
+  background: rgba(47, 48, 58, 0.8);
+}
+
+.page-header {
+  background: #ffffff;
+}
 .header-logo:hover,
 .header-logo:focus {
   color: #2196f3;
@@ -53,7 +65,11 @@
   color: #ffffff;
 }
 
-/* cection-work */
+/* cection-work преимущества */
+
+.section-work-title {
+  color: #212121;
+}
 
 .section-work-text {
   color: #757575;
@@ -61,17 +77,29 @@
 
 /* cection-occupation */
 
+.section-occupation {
+  background: #f5f4fa;
+}
+
 .section-occupation-title {
   color: #ffffff;
 }
 
-/* cection-team */
+/* cection-team команда */
+
+.section-team-title {
+  color: #212121;
+}
 
 .section-team-text {
   color: #757575;
 }
 
-/* ooter */
+/* footer */
+
+.section-footer {
+  background: #2f303a;
+}
 
 .logo-title {
   color: #ffffff;
@@ -79,4 +107,8 @@
 
 .footer-mail-tel {
   color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-title {
+  color: #ffffff;
 }
