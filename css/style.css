@@ -1,5 +1,5 @@
 /* основной цвет текста #212121 */
-/* вторичный цвет #757575 */
+/* основной вторичный цвет текста #757575 */
 /* белый #FFFFFF */
 /* акцент #2196F3*/
 /* шапка #FFFFFF */
@@ -12,18 +12,31 @@
   color: #212121;
 }
 
+.list {
+  list-style: none;
+}
+
 .header-logo:hover,
 .header-logo:focus {
   color: #2196f3;
 }
+
 .header-logo-web {
   color: #2196f3;
+}
+
+/* header-site-nav */
+
+.header-site-nav {
+  color: #212121;
 }
 
 .header-site-nav:hover,
 .header-site-nav:focus {
   color: #2196f3;
 }
+
+/* header-adress */
 
 .header-adress {
   color: #757575;
