@@ -1,3 +1,21 @@
+.logo:hover,
+.logo:focus {
+  color: #2196f3;
+}
 .Logo-web {
+  color: #2196f3;
+}
+
+.site-nav:hover a,
+.site-nav:focus a {
+  color: #2196f3;
+}
+
+.site-adress {
+  color: #757575;
+}
+
+.site-adress:hover,
+.site-adress:focus {
   color: #2196f3;
 }
