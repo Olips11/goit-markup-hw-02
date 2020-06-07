@@ -53,7 +53,6 @@
 .header-site-nav:hover,
 .header-site-nav:focus {
   color: #2196f3;
-  
 }
 
 /* header-adress */
@@ -127,13 +126,13 @@
 
 .filter-button {
   color: #212121;
-  background: #F5F4FA;
+  background: #f5f4fa;
 }
 
-.filter-button:hover, 
+.filter-button:hover,
 .filter-button:focus {
   color: #ffffff;
-  background: #2196F3
+  background: #2196f3;
 }
 
 /* проекты */
