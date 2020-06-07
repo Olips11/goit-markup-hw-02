@@ -15,7 +15,6 @@
 .page {
   background-color: #ffffff;
   color: #212121;
-
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
 }
@@ -35,10 +34,9 @@
 .header-logo {
   color: #212121;
   font-family: Raleway, cursive;
-
   font-weight: bold;
   font-size: 26px;
-  line-height: 1, 2;
+  line-height: 1.2;
 }
 
 .header-logo:hover,
@@ -54,6 +52,10 @@
 
 .header-site-nav {
   color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
 
 .header-site-nav:hover,
