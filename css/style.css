@@ -25,9 +25,16 @@
   background: rgba(47, 48, 58, 0.8);
 }
 
+/* header шапка сайта */
+
 .page-header {
   background: #ffffff;
 }
+
+.header-logo {
+  color: #212121;
+}
+
 .header-logo:hover,
 .header-logo:focus {
   color: #2196f3;
@@ -46,6 +53,7 @@
 .header-site-nav:hover,
 .header-site-nav:focus {
   color: #2196f3;
+  
 }
 
 /* header-adress */
@@ -65,7 +73,7 @@
   color: #ffffff;
 }
 
-/* cection-work преимущества */
+/* section-work преимущества */
 
 .section-work-title {
   color: #212121;
@@ -75,7 +83,7 @@
   color: #757575;
 }
 
-/* cection-occupation */
+/* section-occupation род занятий */
 
 .section-occupation {
   background: #f5f4fa;
@@ -85,7 +93,7 @@
   color: #ffffff;
 }
 
-/* cection-team команда */
+/* section-team команда */
 
 .section-team-title {
   color: #212121;
@@ -115,14 +123,20 @@
 
 /* portfolio */
 
-.portfolio {
+/* фильтер кнопки*/
+
+.filter-button {
   color: #212121;
+  background: #F5F4FA;
 }
 
-.portfolio:hover,
-.portfolio:focus {
+.filter-button:hover, 
+.filter-button:focus {
   color: #ffffff;
+  background: #2196F3
 }
+
+/* проекты */
 
 .projects-title {
   color: #212121;
