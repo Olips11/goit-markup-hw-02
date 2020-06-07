@@ -192,10 +192,17 @@
 
 .footer-mail-tel {
   color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 .footer-title {
   color: #ffffff;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
 }
 
 /* portfolio */
@@ -205,6 +212,11 @@
 .filter-button {
   color: #212121;
   background: #f5f4fa;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
 }
 
 .filter-button:hover,
@@ -222,12 +234,22 @@
 
 .projects-title {
   color: #212121;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .projects-resource {
   color: #757575;
+  font-size: 16px;
+  line-height: 1.87;
 }
 
 .projects-text {
   color: #ffffff;
+  font-size: 18px;
+  line-height: 1.55;
 }
