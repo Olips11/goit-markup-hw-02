@@ -17,14 +17,11 @@
   color: #212121;
 
   font-family: Roboto, sans-serif;
+  letter-spacing: 0.03em;
 }
 
 .list {
   list-style: none;
-}
-
-.section-banner {
-  background: rgba(47, 48, 58, 0.8);
 }
 
 /* header шапка сайта */
@@ -37,8 +34,11 @@
 
 .header-logo {
   color: #212121;
-
   font-family: Raleway, cursive;
+
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1, 2;
 }
 
 .header-logo:hover,
@@ -77,6 +77,10 @@
 }
 
 /* banner */
+
+.section-banner {
+  background: rgba(47, 48, 58, 0.8);
+}
 
 .banner {
   color: #ffffff;
