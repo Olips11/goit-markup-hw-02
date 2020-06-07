@@ -23,7 +23,9 @@
   list-style: none;
 }
 
-/* header шапка сайта */
+/* Web Studio */
+
+/* header шапка сайта (Web Studio and Portfolio) */
 
 .page-header {
   background: #ffffff;
@@ -170,7 +172,7 @@
   text-align: center;
 }
 
-/* footer */
+/* footer (Web Studio and Portfolio) */
 
 .section-footer {
   background: #2f303a;
@@ -205,7 +207,9 @@
   text-transform: uppercase;
 }
 
-/* portfolio */
+/* Portfolio */
+
+/* header шапка сайта (Web Studio and Portfolio) */
 
 /* фильтер кнопки*/
 
@@ -253,3 +257,5 @@
   font-size: 18px;
   line-height: 1.55;
 }
+
+/* footer (Web Studio and Portfolio) */
