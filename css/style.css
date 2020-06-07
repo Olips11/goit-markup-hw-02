@@ -120,6 +120,8 @@
 
 .section-work-text {
   color: #757575;
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 /* section-occupation род занятий */
@@ -128,18 +130,44 @@
   background: #f5f4fa;
 }
 
+.occupation-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+}
+
 .section-occupation-title {
   color: #ffffff;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.4;
+  text-transform: uppercase;
 }
 
 /* section-team команда */
 
 .section-team-title {
   color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
 }
 
 .section-team-text {
-  color: #757575#757575;
+  color: #757575;
+  font-size: 16px;
+  line-height: 1.18;
+}
+
+/* клиенты */
+
+.customers {
+  color: #212121;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
 }
 
 /* footer */
@@ -150,6 +178,16 @@
 
 .logo-title {
   color: #ffffff;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+}
+
+.footer-address {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 1.71;
 }
 
 .footer-mail-tel {
