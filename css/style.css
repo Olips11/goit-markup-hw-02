@@ -29,6 +29,8 @@
 /* header шапка сайта (Web Studio and Portfolio) */
 
 .page-header {
+  padding-top: 24px;
+  padding-bottom: 25px;
   background: #ffffff;
 }
 
@@ -258,6 +260,8 @@
 /* footer (Web Studio and Portfolio) */
 
 .section-footer {
+  padding-top: 60px;
+  padding-bottom: 0px;
   background: #2f303a;
 }
 
